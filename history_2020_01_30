@@ -1,0 +1,35 @@
+    3  python
+    4  ipython
+    5  python2
+    6  nano python_tests.pynano python_tests.py
+    7  pythonn python_test.py
+    8  python python_test.py
+    9  nano pythong_test.py
+   10  python pythong_test.py
+   11  nano pythong_test.py
+   12  python2 python_test.py
+   13  python --version
+   14  cp python_test.py python_test_auto_exe.py
+   15  nano python_test_auto_exe.py
+   16  ls -l
+   17  ls -l /usr/bin/python
+   18  ls -l
+   19  chmod 744 python_auto_test_exe.py
+   20  mv pythong_test_auto_exe.py python_test_auto_exe.py
+   21  mv python_test_auto_exe.py python_test_auto_exe.py
+   22  mv python_test_auto_exe.py python_test_auto_exe
+   23  ls -
+   24  ls -l
+   25  ./python_test_auto_exe
+   26  idle &
+   27  ls -l
+   28  cd diary_2020_30_01.py
+   29  cd diary_2020_01_30.py
+   30  ls -la
+   31  .
+   32  ..
+   33  diary_2020_01_30.py
+   34  diary_2020_01_30
+   35  ls -la
+   36  python -m http.server 8000
+   37  history
